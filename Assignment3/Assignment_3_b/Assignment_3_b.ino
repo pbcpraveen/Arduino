@@ -14,7 +14,7 @@ void glow()
   digitalWrite(7,a0);
   digitalWrite(8,a1);
   digitalWrite(4,a2);
-  delay(50);
+  delay(10);
   
   }
 void loop() {
